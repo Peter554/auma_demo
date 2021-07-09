@@ -6,7 +6,7 @@ The demo shows the combination of audio with time-synced illustrations and simpl
 
 Check it out: https://audiopedia.github.io/auma_demo/ (best viewed on a mobile phone)
 
-Augmented Audio is an effort to develop Audiopedia into an e-Learning framework for low-resource settings. However, there are many more use cases for the Augmented Audio framework.
+Augmented Audio is an effort to develop Audiopedia into an e-Learning framework for low-resource settings, specifically for marginalized, often illiterate populations in the Global South. However, there are many more use cases for the Augmented Audio framework.
 
 
   <img width="752" alt="gitauma" src="https://user-images.githubusercontent.com/32398058/125087221-9dc7cf80-e0cc-11eb-82c2-84225e27f9db.png">
