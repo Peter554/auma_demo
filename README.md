@@ -8,7 +8,7 @@ Check it out: https://audiopedia.github.io/auma_demo/ (best viewed on a mobile p
 
 Augmented Audio is an effort to develop Audiopedia into a e-Learning frameworkfür low-resource settings.
 
-![Auma Fact Sheet](https://user-images.githubusercontent.com/32398058/125086187-aa97f380-e0cb-11eb-8316-a7c894839fd0.png)
+<img width="797" alt="Screenshot 2021-07-09 at 03 39 39 PM" src="https://user-images.githubusercontent.com/32398058/125086430-ecc13500-e0cb-11eb-8ebc-e81c90b079da.png">
 
 
 
