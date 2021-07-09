@@ -1,4 +1,4 @@
-# auma_demo
+# Augmented Audio framework demo
 
 This is just a simple demonstration of an early version of the Augmented Audio (auma) framework.
 
