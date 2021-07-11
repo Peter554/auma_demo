@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "prettier": "^2.3.2"
+  }
+}
